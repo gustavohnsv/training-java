@@ -8,4 +8,4 @@
 + Insira a operação desejada, tal como Soma, Subtração, Multiplicação ou Divisão;
 + Seu resultado será exibido, junto com o encerramento do programa.
 
-## Os números apresentam a **representação Ordinal**, porém pode ser substituído pela **representação Polar**, em que a parte real é um número e a parte imaginária é um ângulo. Para substituir, basta trocar o `return new OrdinaryComplex(a, b)` por `return new PolarComplex(a, b)`.
+Os números apresentam a **representação Ordinal**, porém pode ser substituído pela **representação Polar**, em que a parte real é um número e a parte imaginária é um ângulo. Para substituir, basta trocar o `return new OrdinaryComplex(a, b)` por `return new PolarComplex(a, b)`.
