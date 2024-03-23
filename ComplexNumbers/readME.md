@@ -1,6 +1,6 @@
 # Programa feito a partir de slides de aula sobre Computação Orientada a Objetos:
 
-> Para utilizar o programa, certifique-se que todos os arquivos estejam na pasta "ComplexNumbers". Feito isso, adote durante a execução que a entrada de dados para números será do tipo 'double' e a entrada de string será do tipo 'string' (UTF-8).
+> Para utilizar o programa, certifique-se que todos os arquivos estejam na pasta "ComplexNumbers". Feito isso, adote durante a execução que a entrada de dados para números será do tipo 'double' e a entrada de string será do tipo 'string' (UTF-8). O arquivo de execução será o "ComplexUser.java", sendo os outros arquivos de interface ou implementações.
 
 ## O programa consiste na soma de dois números complexos A e B:
 
